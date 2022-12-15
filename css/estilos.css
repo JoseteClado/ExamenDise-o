@@ -1,0 +1,98 @@
+body{
+   
+   
+}
+
+.container{
+    background-color: #ffffff;
+    width: 100%;
+    background-color: #E1D1B9;
+    box-sizing: border-box;
+    padding: 75px 49px;
+}
+
+header{
+    width: 100%;
+}
+
+
+.imgPortada{
+    width: 90%;
+}
+
+.titulo{
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    font-size: 60px;
+}
+
+main{
+   
+    width: 100%;
+    text-align: center;
+}
+
+.eventoLetras{
+    text-align: justify;
+    margin: 20px 433px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+.steven{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+
+.autor{
+ border-radius: 55%;
+}
+
+.autorLetras{
+    text-align: justify;
+    margin: 40px 600px;
+}
+
+.torre{
+    display: flex;
+    justify-content: space-between;
+}
+
+.libroTorre{
+    width: 50%;
+}
+
+.textoLibro{
+    width: 50%;
+}
+
+.textoLibro>p{
+    text-align: justify;
+    margin: 30px 200px;
+}
+
+footer{
+    width: 100%;
+    background-color: #1F1D1D;
+    height: 250px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+svg{
+    height: 49px;
+    width: 48px;
+    filter: invert();
+}
+
+h3{
+    font-size: 30px;
+    margin: 0;
+    color: white;
+    padding-top: 30px;
+}
+
